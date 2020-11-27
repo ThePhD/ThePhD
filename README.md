@@ -32,24 +32,25 @@ I make the fastest things go faster, the unsafe things much safer, and the diffi
 
 I specialize in ergonomic library design, performance tuning, foreign function/language interfaces, and a little bit of graphics programming. My favorite work includes programming that enables even the newest programmers to produce high-quality code that pushes them and others towards the pit of success! Occasionally, I get stuck in a Network Programming loop 💫!
 
-I also do [Diversity and Inclusivity work in the technical space](https://www.youtube.com/watch?v=vaLKm9FE8oo), working towards making a better and more equitable strict equal meritocracy.
+I also do [Diversity and Inclusivity work in the technical space](https://www.youtube.com/watch?v=vaLKm9FE8oo), working towards making a better and more equitable environment for everyone's contributions.
 
 
 
 
 # Need Something Done? ✔
 
-I perform exceedingly well at connecting disparate systems together to provide you with a painless developer experience, whether by libraries or scripting interfaces. I use a lot of C++ and C, but I also spend my time doing C#, Rust, Javascript + Typescript, OCaml, a tiny bit of Haskell when I can wrap my head around the many many operators, and HTML/CSS work. I also have plenty of experience shaping good user interfaces to improve the end user's experience, driving positive customer experience for better clickthrough.
+I perform exceedingly well at connecting disparate systems together to provide you with a painless developer experience, whether by libraries or scripting interfaces. I use a lot of C++ and C, but I also spend my time doing C#, Rust, JavaScript + Typescript, OCaml, a tiny bit of Haskell when I can wrap my head around the many many operators, and HTML/CSS work. I also have plenty of experience shaping good user interfaces to improve the end user's experience, driving positive customer experience for better clickthrough.
 
 For support and support contracts in:
 
 - Open Source work, e.g.:
 	- [sol2](https://github.com/ThePhD/sol2)
 	- [itsy.bitsy](https://github.com/ThePhD/itsy_bitsy)
+	- and others...
 - Standardization work, e.g.:
 	- [WG14 and WG21 proposals](https://ThePhD.github.io/portfolio/standard)
 
-please [reach out](https://soasis.org/contact)! I'll be happy to make custom solutions using open source tools for your needs, support a specific feature set in a library (mine or others), or carry through a specific proposal in the standardization process [like I have done for others](https://twitter.com/__phantomderp/status/1325853307307438081).
+please [reach out](https://soasis.org/contact/opensource/)! I'll be happy to make custom solutions using open source tools for your needs, support a specific feature set in a library (mine or others), or carry through a specific proposal in the standardization process [like I have done for others](https://twitter.com/__phantomderp/status/1325853307307438081).
 
 
 
@@ -62,4 +63,4 @@ If you need something more than that, feel free to reach out to Shepherd's Oasis
 - [LinkedIn](https://www.linkedin.com/company/shepherdsoasis/)
 - [GitHub](https://github.com/soasis)
 - [Twitter](https://twitter.com/ShepherdsOasis)
-- [LinkedIn](https://www.linkedin.com/company/shepherdsoasis/)
+- [E-mail](mailto:inquiries@soasis.org)

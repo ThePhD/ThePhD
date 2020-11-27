@@ -13,3 +13,4 @@ jobs:
         with:
           feed_list: "https://thephd.github.io/feed.xml,https://soasis.org/posts/index.xml"
           max_post_count: 7
+          template: "- [$title]($url) ($date)$newline"
