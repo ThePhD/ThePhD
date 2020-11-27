@@ -42,7 +42,9 @@ I also do [Diversity and Inclusivity work in the technical space](https://www.yo
 
 # Need Something Done? ✔
 
-I perform exceedingly well at connecting disparate systems together to provide you with a painless developer experience, whether by libraries or scripting interfaces. I use a lot of C++ and C, but I also spend my time doing C#, Rust, JavaScript + Typescript, OCaml, a tiny bit of Haskell when I can wrap my head around the many many operators, and HTML/CSS work. I also have plenty of experience shaping good user interfaces to improve the end user's experience, driving positive customer experience for better clickthrough.
+I perform exceedingly well at connecting disparate systems together to provide you with a painless developer experience, whether by libraries or scripting interfaces. I use a lot of C++ and C, but I also spend my time doing C#, Rust, JavaScript + Typescript, OCaml, a tiny bit of Haskell when I can wrap my head around the many many operators, and HTML/CSS work. I also have plenty of experience shaping good user interfaces to improve the end user's experience, driving positive customer experience for better retention.
+
+I'm available from _January 2021_ and onward for intensive projects, and there's plenty of room for open source support right now!
 
 For support and support contracts in:
 
