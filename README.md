@@ -51,11 +51,15 @@ For support and support contracts in:
 
 please [reach out](https://soasis.org/contact)! I'll be happy to make custom solutions using open source tools for your needs, support a specific feature set in a library (mine or others), or carry through a specific proposal in the standardization process [like I have done for others](https://twitter.com/__phantomderp/status/1325853307307438081).
 
-Feel free to also follow the company at:
 
+
+
+# Business Inquiries
+
+If you need something more than that, feel free to reach out to Shepherd's Oasis! You can find us in various places, such as:
+
+- [The Website](https://soasis.org)
 - [LinkedIn](https://www.linkedin.com/company/shepherdsoasis/)
 - [GitHub](https://github.com/soasis)
 - [Twitter](https://twitter.com/ShepherdsOasis)
 - [LinkedIn](https://www.linkedin.com/company/shepherdsoasis/)
-
-(You should also totally bother Shepherd for nudging me back onto LinkedIn as well [by connecting and following them](https://www.linkedin.com/in/shepherdsoasis-founder/), too!)
