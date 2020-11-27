@@ -8,7 +8,7 @@ You can find me at:
 - [LinkedIn](https://www.linkedin.com/in/thephd)
 - [Twitter](https://twitter.com/__phantomderp)
 - [Telegram](https://t.me/thephantomderp)
-- [GitHub (recursion)](https://github.com/ThePhD)
+- [Recursion](https://github.com/ThePhD)
 
 
 
