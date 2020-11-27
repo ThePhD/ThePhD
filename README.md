@@ -16,6 +16,11 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [Catching a Use Case: Fallible Allocators](https://soasis.org/posts/fallible-allocators/)
+- [typeof(...) for ISO C](https://soasis.org/posts/typeof-for-iso-c-standard/)
+- [New CppCast Episode!](https://soasis.org/posts/cppcast-unicode-c-c++-guest-co-host/)
+- [New Website, New Chapter](https://soasis.org/posts/hello/)
+- [The Community](https://thephd.github.io/the-community)
 <!-- BLOG-POST-LIST:END -->
 
 
