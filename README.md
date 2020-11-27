@@ -15,13 +15,8 @@ You can find me at:
 
 # Recent Posts 📋
 
-<!-- BLOG-POST-LIST:START -->- [Catching a Use Case: Fallible Allocators](https://soasis.org/posts/fallible-allocators/) (Sun Nov 15 2020 12:00 AM)
-- [typeof(...) for ISO C](https://soasis.org/posts/typeof-for-iso-c-standard/) (Tue Nov 10 2020 12:00 AM)
-- [New CppCast Episode!](https://soasis.org/posts/cppcast-unicode-c-c++-guest-co-host/) (Sun Nov 08 2020 12:00 AM)
-- [New Website, New Chapter](https://soasis.org/posts/hello/) (Mon Oct 19 2020 12:00 AM)
-- [The Community](https://thephd.github.io/the-community) (Tue Oct 06 2020 12:00 AM)
-- [Editing the C Standard](https://thephd.github.io/editing-the-c-standard) (Fri Sep 11 2020 12:00 AM)
-- [Preprocessor Embed and Language Embed - The Last Sprint](https://thephd.github.io/preprocessor-embed-std-embed-the-last-spring) (Thu Sep 03 2020 12:00 AM)
+<!-- BLOG-POST-LIST:START -->
+- [Catching a Use Case: Fallible Allocators](https://soasis.org/posts/fallible-allocators/) (Sunday, 2020 15 November)- [typeof(...) for ISO C](https://soasis.org/posts/typeof-for-iso-c-standard/) (Tuesday, 2020 10 November)- [New CppCast Episode!](https://soasis.org/posts/cppcast-unicode-c-c++-guest-co-host/) (Sunday, 2020 08 November)- [New Website, New Chapter](https://soasis.org/posts/hello/) (Monday, 2020 19 October)- [The Community](https://thephd.github.io/the-community) (Tuesday, 2020 06 October)- [Editing the C Standard](https://thephd.github.io/editing-the-c-standard) (Friday, 2020 11 September)- [Preprocessor Embed and Language Embed - The Last Sprint](https://thephd.github.io/preprocessor-embed-std-embed-the-last-spring) (Thursday, 2020 03 September)
 <!-- BLOG-POST-LIST:END -->
 
 
