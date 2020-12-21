@@ -16,13 +16,13 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Another C++ (And More™) Conference?](https://thephd.github.io/why-another-c++-c-rust-zig-systems-programming-conference) (Sunday, 2020 20 December)
 - [A Special Kind of Hell - intmax_t in C and C++](https://thephd.github.io/intmax_t-hell-c++-c) (Saturday, 2020 05 December)
 - [Catching a Use Case: Fallible Allocators](https://soasis.org/posts/fallible-allocators/) (Sunday, 2020 15 November)
 - [typeof(...) for ISO C](https://soasis.org/posts/typeof-for-iso-c-standard/) (Tuesday, 2020 10 November)
 - [New CppCast Episode!](https://soasis.org/posts/cppcast-unicode-c-c++-guest-co-host/) (Sunday, 2020 08 November)
 - [New Website, New Chapter](https://soasis.org/posts/hello/) (Monday, 2020 19 October)
 - [The Community](https://thephd.github.io/the-community) (Tuesday, 2020 06 October)
-- [Editing the C Standard](https://thephd.github.io/editing-the-c-standard) (Friday, 2020 11 September)
 
 <!-- BLOG-POST-LIST:END -->
 
