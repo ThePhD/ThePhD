@@ -5,7 +5,7 @@ My name is JeanHeyd Meneide. I am a Software Engineer and [the Project Editor fo
 You can find me at:
 
 - [My Website](https://ThePhD.github.io)
-- [LinkedIn](https://www.linkedin.com/in/thephd)
+<!-- Gone! - [LinkedIn](https://www.linkedin.com/in/thephd)-->
 - [Twitter](https://twitter.com/__phantomderp)
 - [Telegram](https://t.me/thephantomderp)
 - [Recursion](https://github.com/ThePhD)
