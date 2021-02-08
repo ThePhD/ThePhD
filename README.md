@@ -49,7 +49,7 @@ Please [reach out to these folks](https://soasis.org/contact/opensource/) if you
 
 # Business Inquiries
 
-If you need something more than that, feel free to reach out to Shepherd's Oasis! You can find us in various places, such as:
+If you need something more than that, feel free to reach out to Shepherd's Oasis! You can find them in various places, such as:
 
 - [The Website](https://soasis.org)
 - [LinkedIn](https://www.linkedin.com/company/shepherdsoasis/)
