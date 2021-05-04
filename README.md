@@ -16,13 +16,13 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [Postponing CoSy Tech](https://soasis.org/posts/postponing-cosy-tech-conference/) (Thursday, 2021 29 April)
 - [No Us Without You - elifdef and elifndef](https://thephd.github.io/no-us-without-you-elifdef-elifndef-c-n2645) (Friday, 2021 12 March)
 - [Planted Seeds - Unicode Transcoding in 2021](https://soasis.org/posts/planted-seeds-unicode-c-c++-2021/) (Saturday, 2020 26 December)
 - [Why Another C++ (And More™) Conference?](https://thephd.github.io/why-another-c++-c-rust-zig-systems-programming-conference) (Sunday, 2020 20 December)
 - [A Special Kind of Hell - intmax_t in C and C++](https://thephd.github.io/intmax_t-hell-c++-c) (Saturday, 2020 05 December)
 - [Catching a Use Case: Fallible Allocators](https://soasis.org/posts/fallible-allocators/) (Sunday, 2020 15 November)
 - [typeof(...) for ISO C](https://soasis.org/posts/typeof-for-iso-c-standard/) (Tuesday, 2020 10 November)
-- [New CppCast Episode!](https://soasis.org/posts/cppcast-unicode-c-c++-guest-co-host/) (Sunday, 2020 08 November)
 
 <!-- BLOG-POST-LIST:END -->
 
