@@ -17,12 +17,12 @@ You can find me at:
 
 <!-- BLOG-POST-LIST:START -->
 - [Any Encoding, Ever - ztd.text and Unicode for C++](https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp) (Wednesday, 2021 30 June)
+- [Postponing CoSy Tech](https://soasis.org/posts/postponing-cosy-tech-conference/) (Thursday, 2021 29 April)
 - [No Us Without You - elifdef and elifndef](https://thephd.dev/no-us-without-you-elifdef-elifndef-c-n2645) (Friday, 2021 12 March)
+- [Planted Seeds - Unicode Transcoding in 2021](https://soasis.org/posts/planted-seeds-unicode-c-c++-2021/) (Saturday, 2020 26 December)
 - [Why Another C++ (And More™) Conference?](https://thephd.dev/why-another-c++-c-rust-zig-systems-programming-conference) (Sunday, 2020 20 December)
 - [A Special Kind of Hell - intmax_t in C and C++](https://thephd.dev/intmax_t-hell-c++-c) (Saturday, 2020 05 December)
-- [The Community](https://thephd.dev/the-community) (Tuesday, 2020 06 October)
-- [Editing the C Standard](https://thephd.dev/editing-the-c-standard) (Friday, 2020 11 September)
-- [Preprocessor Embed and Language Embed - The Last Sprint](https://thephd.dev/preprocessor-embed-std-embed-the-last-spring) (Thursday, 2020 03 September)
+- [Catching a Use Case: Fallible Allocators](https://soasis.org/posts/fallible-allocators/) (Sunday, 2020 15 November)
 
 <!-- BLOG-POST-LIST:END -->
 
