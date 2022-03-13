@@ -16,13 +16,13 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) (Sunday, 2022 13 March)
 - [Ever Closer - C23 Draws Nearer](https://thephd.dev/ever-closer-c23-improvements) (Monday, 2022 28 February)
 - [views::split: The Final Frontier](https://thephd.dev/ranges-split-final-frontier-reconstructible) (Sunday, 2021 12 December)
 - [Binary Banshees and Digital Demons](https://thephd.dev/binary-banshees-digital-demons-abi-c-c++-help-me-god-please) (Monday, 2021 20 September)
 - [C-ing the Improvement: Progress on C23](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting) (Saturday, 2021 04 September)
 - [Lambdas, Nested Functions, and Blocks, oh my!](https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my) (Friday, 2021 16 July)
 - [Any Encoding, Ever - ztd.text and Unicode for C++](https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp) (Wednesday, 2021 30 June)
-- [Postponing CoSy Tech](https://soasis.org/posts/postponing-cosy-tech-conference/) (Thursday, 2021 29 April)
 
 <!-- BLOG-POST-LIST:END -->
 
