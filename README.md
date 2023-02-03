@@ -16,13 +16,13 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [Undefined behavior, and the Sledgehammer Principle](https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline) (Thursday, 2023 02 February)
 - [The Wonderfully Terrible World of C and C++ Encoding APIs &lpar;with Some Rust&rpar;](https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape) (Wednesday, 2022 12 October)
 - [C23 is Finished: Here is What is on the Menu](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu) (Sunday, 2022 31 July)
 - [finally. #embed](https://thephd.dev/finally-embed-in-c23) (Friday, 2022 22 July)
 - [Conformance Should Mean Something - fputc, and Freestanding](https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding) (Monday, 2022 18 April)
 - [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) (Sunday, 2022 13 March)
 - [Ever Closer - C23 Draws Nearer](https://thephd.dev/ever-closer-c23-improvements) (Monday, 2022 28 February)
-- [views::split: The Final Frontier](https://thephd.dev/ranges-split-final-frontier-reconstructible) (Sunday, 2021 12 December)
 
 <!-- BLOG-POST-LIST:END -->
 
