@@ -16,13 +16,13 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++) (Thursday, 2023 19 October)
 - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c) (Wednesday, 2023 07 June)
 - [Statement on RustConf &amp; Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/) (Tuesday, 2023 30 May)
 - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/) (Sunday, 2023 30 April)
 - [Undefined behavior, and the Sledgehammer Principle](https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline) (Thursday, 2023 02 February)
 - [The Wonderfully Terrible World of C and C++ Encoding APIs &lpar;with Some Rust&rpar;](https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape) (Wednesday, 2022 12 October)
 - [C23 is Finished: Here is What is on the Menu](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu) (Sunday, 2022 31 July)
-- [finally. #embed](https://thephd.dev/finally-embed-in-c23) (Friday, 2022 22 July)
 
 <!-- BLOG-POST-LIST:END -->
 
