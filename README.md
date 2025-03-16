@@ -16,13 +16,13 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go) (Thursday, 2025 13 March)
 - [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results) (Tuesday, 2025 21 January)
 - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c) (Wednesday, 2024 06 November)
 - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay) (Tuesday, 2024 08 October)
 - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y) (Thursday, 2024 01 August)
 - [Constant Integer Type Declarations Initialized With Constant Expressions Should Be Constants](https://thephd.dev/constant-integers-are-actually-constant-wow-finally-someones-writing-the-goddamn-paper-%F0%9F%99%84) (Sunday, 2024 16 June)
 - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it) (Tuesday, 2024 21 May)
-- [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++) (Thursday, 2023 19 October)
 
 <!-- BLOG-POST-LIST:END -->
 
