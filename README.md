@@ -16,7 +16,7 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
-- [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go) (Thursday, 2025 13 March)
+- [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go) (Saturday, 2025 15 March)
 - [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results) (Tuesday, 2025 21 January)
 - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c) (Wednesday, 2024 06 November)
 - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay) (Tuesday, 2024 08 October)
